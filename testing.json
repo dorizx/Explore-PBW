@@ -1,0 +1,27 @@
+[
+    {
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "color": "White",
+        "price": 20000,
+        "features": ["Air Conditioning", "Power Steering", "Bluetooth", "Backup Camera"]
+    },
+
+    {
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "color": "Black",
+        "price": 22000,
+        "features": ["Sunroof", "Leather Seats", "Navigation System", "Heated Seats"]
+    },
+    {
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "color": "Red",
+        "price": 35000,
+        "features": ["V8 Engine", "Sports Package", "Bluetooth", "Backup Camera"]
+    }
+]
